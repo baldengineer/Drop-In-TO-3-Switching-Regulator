@@ -1,4 +1,4 @@
-![after dark pcb of a to-3 shaped board](https://github.com/baldengineer/Drop-In-TO-3-Switching-Regulator/blob/main/images/TO3-After-Dark-PCB-Empty.png]
+![after dark pcb of a to3 shaped board](https://github.com/baldengineer/Drop-In-TO-3-Switching-Regulator/blob/main/images/TO3-After-Dark-PCB-Empty.png)
 ## Drop-In TO-3 Switching Regulator
 KiCad design files for LM323 Linear regulator replacement for 5 volt applications. Created using KiCad 5.x.
 
